@@ -7,8 +7,9 @@
 ---
 
 ## 🚀 Sobre mim  
-Sou desenvolvedor com experiência em **Node.js, Python e bancos de dados relacionais**.  
-Gosto de construir soluções eficientes no **backend**, integrações com APIs e sistemas orientados a dados.  
+🎓 Sou **estudante do curso técnico em Informática no CEFET-MG**.  
+💻 Tenho interesse em **desenvolvimento de software**, com foco em **JavaScript, Node.js e bancos de dados relacionais**.  
+📈 Estou em busca de **melhorar minhas habilidades práticas** e conquistar minha **primeira oportunidade na área de desenvolvimento**.  
 
 ---
 
@@ -35,9 +36,8 @@ Gosto de construir soluções eficientes no **backend**, integrações com APIs 
 ---
 
 ## 📌 Projetos em Destaque  
-
-- [💰 Sistema Bancário em Node.js](https://github.com/Gudereck/seu-repo)  
-- [📚 Integração Google Books + MySQL](https://github.com/Gudereck/seu-repo)  
+ 
+- [📚 Integração Google Books + MySQL](https://github.com/Gudereck/Projeto-TCC)  
 
 ---
 
