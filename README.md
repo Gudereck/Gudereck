@@ -1,46 +1,137 @@
-# 👋 Olá, me chamo Gustavo de Deus  
+# 👋 Gustavo de Deus
 
+💻 Desenvolvedor focado em **Backend**  
+🎓 Técnico em Informática para Internet – CEFET-MG  
+🎓 Estudante de Sistemas de Informação  
+
+📍 Brasil
+
+---
+
+# 🔗 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-de-deus-86773023b)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gudereck01)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-de-deus-86773023b)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavorezende307@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavorezende307@gmail.com)
 
 ---
 
-## 🚀 Sobre mim  
-🎓 Sou **estudante do curso técnico em Informática no CEFET-MG**.  
-💻 Tenho interesse em **desenvolvimento de software**, com foco em **JavaScript, Node.js e bancos de dados relacionais**.  
-📈 Estou em busca de **melhorar minhas habilidades práticas** e conquistar minha **primeira oportunidade na área de desenvolvimento**.  
+# 👨‍💻 Sobre mim
+
+Sou desenvolvedor em formação com interesse em **desenvolvimento backend e arquitetura de software**.
+
+Atualmente estudo e desenvolvo projetos utilizando principalmente:
+
+- **Java**
+- **Kotlin**
+- **Node.js**
+- **Banco de dados relacionais**
+
+Tenho interesse em trabalhar com:
+
+- APIs REST
+- desenvolvimento backend
+- integração com banco de dados
+- arquitetura de aplicações
+
+Meu objetivo é evoluir tecnicamente através de projetos práticos e conquistar minha **primeira oportunidade como desenvolvedor backend**.
 
 ---
 
-## 📊 GitHub Stats  
-![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=Gudereck&show_icons=true&theme=dracula)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gudereck&layout=compact&theme=dracula)
+# 🧠 Stack Principal
+
+### Backend
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
+### Banco de Dados
+
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+
+### Web
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
+
+### Outras Linguagens
+
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python)
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas  
+# 📊 Estatísticas GitHub
 
-**Frontend**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Gudereck&show_icons=true&theme=tokyonight)
 
-**Backend**  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)  
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
-
-**Banco de Dados**  
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)  
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gudereck&layout=compact&theme=tokyonight)
 
 ---
 
-## 📌 Projetos em Destaque  
- 
-- [📚 Integração Google Books + MySQL](https://github.com/Gudereck/Projeto-TCC)  
+# 📈 Atividade no GitHub
+
+[![Gustavo github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gudereck&theme=tokyo-night)]
 
 ---
 
-⭐ Sempre aprendendo e buscando evoluir como desenvolvedor.  
+# 📌 Projetos em Destaque
+
+## 📚 Integração Google Books + MySQL
+
+Projeto que realiza **consumo da API do Google Books** e armazena os dados em banco relacional.
+
+Tecnologias utilizadas:
+
+- Node.js
+- API REST
+- MySQL
+
+🔗 Repositório  
+https://github.com/Gudereck/Projeto-TCC
+
+---
+
+## 🧊 Sistema de Gerenciamento de Geladeira (Java)
+
+Projeto desenvolvido em **Java** aplicando conceitos de programação orientada a objetos.
+
+Conceitos aplicados:
+
+- Programação Orientada a Objetos
+- Lógica de programação
+- Estrutura de classes e métodos
+
+🔗 Repositório  
+https://github.com/Gudereck/Projeto-Geladeira-Java
+
+---
+
+## 🌐 Leitor Crítico Web
+
+Aplicação web para leitura e análise de conteúdo.
+
+Tecnologias utilizadas:
+
+- HTML
+- CSS
+- JavaScript
+
+🔗 Repositório  
+https://github.com/Gudereck/Leitor-critico-web
+
+---
+
+# 🎯 Objetivo Profissional
+
+Conquistar uma **oportunidade de estágio ou posição inicial em desenvolvimento backend**, trabalhando principalmente com:
+
+- Java
+- Kotlin
+- APIs
+- banco de dados
+
+---
+
+⭐ Sempre estudando, construindo projetos e evoluindo como desenvolvedor.
