@@ -78,19 +78,18 @@ Meu objetivo é evoluir tecnicamente através de projetos práticos e conquistar
 
 # 📌 Projetos em Destaque
 
-## 📚 Integração Google Books + MySQL
+## 💰 Sistema de Controle Financeiro
 
-Projeto que realiza **consumo da API do Google Books** e armazena os dados em banco relacional.
+Projeto desktop de gerenciamento financeiro construído com **arquitetura em camadas**, unindo um backend robusto a uma interface gráfica nativa e armazenamento em banco relacional.
 
 Tecnologias utilizadas:
-
-- Node.js
-- API REST
-- MySQL
+- Java 21
+- Spring Boot (Data JPA)
+- JavaFX (Interface Visual)
+- SQLite
 
 🔗 Repositório  
-https://github.com/Gudereck/Projeto-TCC
-
+https://github.com/Gudereck/ProjetoFinanceiro
 ---
 
 ## 🧊 Sistema de Gerenciamento de Geladeira (Java)
