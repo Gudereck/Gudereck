@@ -2,7 +2,7 @@
 
 💻 Desenvolvedor focado em **Backend**  
 🎓 Técnico em Informática para Internet – CEFET-MG  
-🎓 Estudante de Sistemas de Informação  
+🎓 Estudante de Sistemas de Informação  - Anhanguera Divinopolis-MG
 
 📍 Brasil
 
