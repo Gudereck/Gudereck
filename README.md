@@ -77,7 +77,25 @@ Meu objetivo é evoluir tecnicamente através de projetos práticos e conquistar
 ---
 
 # 📌 Projetos em Destaque
+## 🏦 PVBanks 
+API de Gestão Financeira Pessoal
+API RESTful para gerenciamento de finanças, construída com arquitetura em camadas e foco em Clean Code. O sistema utiliza processamento analítico com Java Streams para cálculos de saldo e persistência em banco NoSQL.
 
+Tecnologias utilizadas:
+
+Java 21
+
+Spring Boot 3.x (Spring Data MongoDB)
+
+MongoDB (NoSQL)
+
+Lombok
+
+🔗 Repositório
+
+https://github.com/Gudereck/PVBanks
+
+---
 ## 💰 Sistema de Controle Financeiro
 
 Projeto desktop de gerenciamento financeiro construído com **arquitetura em camadas**, unindo um backend robusto a uma interface gráfica nativa e armazenamento em banco relacional.
@@ -90,20 +108,6 @@ Tecnologias utilizadas:
 
 🔗 Repositório  
 https://github.com/Gudereck/ProjetoFinanceiro
----
-
-## 🧊 Sistema de Gerenciamento de Geladeira (Java)
-
-Projeto desenvolvido em **Java** aplicando conceitos de programação orientada a objetos.
-
-Conceitos aplicados:
-
-- Programação Orientada a Objetos
-- Lógica de programação
-- Estrutura de classes e métodos
-
-🔗 Repositório  
-https://github.com/Gudereck/Projeto-Geladeira-Java
 
 ---
 
