@@ -93,7 +93,7 @@ Lombok
 
 🔗 Repositório
 
-https://github.com/Gudereck/PVBanks
+[https://github.com/Gudereck/PVBanks](https://github.com/Gudereck/PvBanks-FullStack)
 
 ---
 ## 💰 Sistema de Controle Financeiro
