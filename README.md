@@ -15,7 +15,7 @@
 
 ---
 
-# 👨‍💻 Sobre mim
+# 👨💻 Sobre mim
 
 Sou um desenvolvedor em formação apaixonado por **arquitetura de software e desenvolvimento backend**. Tenho uma base sólida em manutenção e suporte, e agora dedico meus estudos à criação de aplicações escaláveis, eficientes e bem estruturadas.
 
@@ -37,9 +37,11 @@ Meu objetivo é evoluir tecnicamente através de desafios práticos e conquistar
 
 ### Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### Banco de Dados
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -48,6 +50,7 @@ Meu objetivo é evoluir tecnicamente através de desafios práticos e conquistar
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
@@ -67,6 +70,11 @@ Meu objetivo é evoluir tecnicamente através de desafios práticos e conquistar
 ---
 
 # 📌 Projetos em Destaque
+
+## 🛠️ AtivoFlow – Gestão de Ativos e Chamados de TI
+API Fullstack para gerenciar o ciclo de vida de hardwares de TI e automatizar o fluxo de suporte técnico (abertura e encerramento de chamados). O sistema possui regras de transição automática de status dos equipamentos, arquitetura em camadas e ambiente conteinerizado.
+- **Tecnologias:** Java 21, Spring Boot (Data JPA, Validation), PostgreSQL (Relacional), Docker & Docker Compose, HTML/CSS/JavaScript (Frontend).
+- 🔗 [Acessar Repositório](https://github.com/Gudereck/AtivoFlow)
 
 ## 🏦 PVBanks – API de Gestão Financeira
 API RESTful para gerenciamento de finanças, construída com arquitetura em camadas e foco em Clean Code. O sistema utiliza processamento analítico com Java Streams para cálculos de saldo e persistência em banco NoSQL.
