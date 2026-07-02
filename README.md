@@ -1,132 +1,94 @@
-<!-- Cabeçalho Dinâmico referenciando o arquivo local banner.svg -->
-<div align="center">
-  <img src="banner.svg" alt="Gustavo de Deus" width="100%" />
-</div>
+# 👋 Olá, sou o Gustavo de Deus
 
-<br />
-
-<!-- Introdução e Contatos rápidos -->
-<div align="center">
-  <a href="https://www.linkedin.com/in/gustavo-de-deus-86773023b" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/gudereck01" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="mailto:gustavorezende307@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</div>
+💻 Desenvolvedor focado em **Backend**  
+🎓 Técnico em Informática para Internet – CEFET-MG  
+🎓 Estudante de Sistemas de Informação – Anhanguera (Divinópolis-MG)  
+📍 Brasil
 
 ---
 
-# 👨‍💻 Sobre Mim
+# 🔗 Contato
 
-Olá! Sou o **Gustavo de Deus**, um desenvolvedor apaixonado por **arquitetura de software e desenvolvimento backend**. Com formação técnica e atualmente cursando Sistemas de Informação, foco meus estudos na criação de APIs escaláveis, eficientes e na aplicação prática de **Clean Code** e boas práticas de desenvolvimento.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-de-deus-86773023b)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gudereck01)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavorezende307@gmail.com)
 
-* 🎓 **Formação:** 
-  * Técnico em Informática para Internet – CEFET-MG
-  * Estudante de Sistemas de Informação – Anhanguera (Divinópolis-MG)
-* 📍 **Localização:** Minas Gerais, Brasil
-* 💡 **Interesses:** APIs RESTful, Modelagem de Bancos de Dados, Otimização de Queries e Arquitetura de Software.
+---
+
+# 👨‍💻 Sobre mim
+
+Sou um desenvolvedor em formação apaixonado por **arquitetura de software e desenvolvimento backend**. Tenho uma base sólida em manutenção e suporte, e agora dedico meus estudos à criação de aplicações escaláveis, eficientes e bem estruturadas.
+
+Atualmente estudo e desenvolvo projetos utilizando principalmente:
+- **Java** (com foco no ecossistema Spring)
+- **Node.js**
+- **Bancos de dados relacionais e NoSQL**
+
+Tenho interesse em atuar com:
+- Construção de APIs RESTful
+- Integração com banco de dados
+- Arquitetura de aplicações e Clean Code
+
+Meu objetivo é evoluir tecnicamente através de desafios práticos e conquistar minha **primeira oportunidade como desenvolvedor backend**.
 
 ---
 
 # 🧠 Stack Principal
 
-### ⚙️ Backend
-<div align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-</div>
+### Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
-### 🗄️ Banco de Dados
-<div align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-</div>
+### Banco de Dados
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 🌐 Frontend & Outros
-<div align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-</div>
+### Web & Outras Linguagens
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python)
 
 ---
 
 # 📊 Estatísticas GitHub
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td align="center" valign="top">
-        <img height="180" src="https://github-readme-stats.vercel.app/api?username=Gudereck&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-      </td>
-      <td align="center" valign="top">
-        <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gudereck&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
-      </td>
-    </tr>
-  </table>
-  <br />
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Gudereck&theme=tokyo-night" alt="Gráfico de Atividade" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Gudereck&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gudereck&layout=compact&theme=tokyonight" alt="Top Langs" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gudereck&theme=tokyo-night" alt="Gustavo github activity graph" />
 </div>
 
 ---
 
 # 📌 Projetos em Destaque
 
-<br />
+## 🏦 PVBanks – API de Gestão Financeira
+API RESTful para gerenciamento de finanças, construída com arquitetura em camadas e foco em Clean Code. O sistema utiliza processamento analítico com Java Streams para cálculos de saldo e persistência em banco NoSQL.
+- **Tecnologias:** Java 21, Spring Boot 3.x (Spring Data MongoDB), MongoDB (NoSQL), Lombok.
+- 🔗 [Acessar Repositório](https://github.com/Gudereck/PvBanks-FullStack)
 
-### 🛠️ AtivoFlow – Gestão de Ativos e Chamados de TI
-> Aplicação Fullstack para controle do ciclo de vida de equipamentos de TI e gerenciamento de fluxo de suporte técnico (tickets).
+## 💰 Sistema de Controle Financeiro
+Projeto desktop de gerenciamento financeiro construído com **arquitetura em camadas**, unindo um backend robusto a uma interface gráfica nativa e armazenamento em banco relacional.
+- **Tecnologias:** Java 21, Spring Boot (Data JPA), JavaFX (Interface Visual), SQLite.
+- 🔗 [Acessar Repositório](https://github.com/Gudereck/ProjetoFinanceiro)
 
-* **Arquitetura & Design:** Arquitetura em camadas (Controller, Service, Repository), regras de negócio automatizadas para transições de status de equipamentos, persistência em banco relacional e conteinerização completa do ambiente.
-* **Tecnologias:** Java 21, Spring Boot, PostgreSQL, Hibernate/JPA, Docker & Docker Compose, HTML5, CSS3, JavaScript (Fetch API).
-* 🔗 [Acessar Repositório](https://github.com/Gudereck/AtivoFlow)
-
----
-
-### 🏦 PVBanks – API de Gestão Financeira
-> API RESTful robusta para gerenciamento financeiro, desenvolvida com arquitetura limpa em camadas e persistência orientada a documentos.
-
-* **Arquitetura & Design:** Clean Code, separação clara de responsabilidades, Java Streams para processamento analítico eficiente e regras de negócio estruturadas.
-* **Tecnologias:** Java 21, Spring Boot 3.x, Spring Data MongoDB, MongoDB, Lombok.
-* 🔗 [Acessar Repositório](https://github.com/Gudereck/PvBanks-FullStack)
-
----
-
-### 💰 Sistema de Controle Financeiro Desktop
-> Aplicação Desktop completa para controle financeiro, unindo lógica corporativa e interface gráfica rica.
-
-* **Arquitetura & Design:** Padrão MVC para separação da interface JavaFX do backend, integração com banco relacional local para portabilidade.
-* **Tecnologias:** Java 21, Spring Boot, Spring Data JPA, JavaFX, SQLite.
-* 🔗 [Acessar Repositório](https://github.com/Gudereck/ProjetoFinanceiro)
-
----
-
-### 🌐 Leitor Crítico Web
-> Plataforma web para catálogo e avaliação literária integrada à API do Google Books.
-
-* **Arquitetura & Design:** Consumo assíncrono de APIs externas e automação de persistência de dados estruturados em banco relacional.
-* **Tecnologias:** JavaScript (Fetch API), HTML5, CSS3, Banco de Dados Relacional.
-* 🔗 [Acessar Repositório](https://github.com/Gudereck/Leitor-critico-web)
+## 🌐 Leitor Crítico Web
+Aplicação web que realiza o consumo da API do Google Books para busca de livros e automatiza o armazenamento das informações dos títulos em um banco de dados relacional.
+- **Tecnologias:** Integração de APIs REST, Banco de Dados Relacional, HTML, CSS, JavaScript.
+- 🔗 [Acessar Repositório](https://github.com/Gudereck/Leitor-critico-web)
 
 ---
 
 # 🎯 Objetivo Profissional
 
-Atualmente busco minha **primeira oportunidade como Desenvolvedor Backend (Estágio ou Júnior)**. Desejo contribuir para equipes ágeis aplicando meus conhecimentos em ecossistemas **Java (Spring)** e **Node.js**, além de boas práticas de design e desenvolvimento de software.
+Busco uma **oportunidade de estágio ou posição júnior em desenvolvimento backend**, com foco principal na criação e manutenção de APIs utilizando ecossistema **Java** ou **Node.js**.
 
-<br />
+<br>
 
-<div align="center">
-  <sub>README construído com 💙 por Gustavo de Deus.</sub>
-</div>
+> ⭐ *Sempre estudando, construindo projetos e evoluindo como desenvolvedor.*
