@@ -1,6 +1,6 @@
-<!-- Cabeçalho Dinâmico -->
+<!-- Cabeçalho Dinâmico referenciando o arquivo local banner.svg -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/type=waving&color=0077B5&height=220&section=header&text=Gustavo%20de%20Deus&subtitle=Desenvolvedor%20Backend&fontSize=40&fontColor=ffffff&rainbow=true" alt="Banner Gustavo de Deus" />
+  <img src="banner.svg" alt="Gustavo de Deus" width="100%" />
 </div>
 
 <br />
@@ -68,10 +68,10 @@ Olá! Sou o **Gustavo de Deus**, um desenvolvedor apaixonado por **arquitetura d
   <table border="0">
     <tr>
       <td align="center" valign="top">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gudereck&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+        <img height="180" src="https://github-readme-stats.vercel.app/api?username=Gudereck&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
       </td>
       <td align="center" valign="top">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gudereck&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
+        <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gudereck&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
       </td>
     </tr>
   </table>
