@@ -17,7 +17,7 @@
 
 # 👨‍💻 Sobre mim
 
-Sou um desenvolvedor em formação apaixonado por **arquitetura de software e desenvolvimento backend**. Tenho uma base sólida em manutenção e suporte, e agora dedico meus estudos à criação de aplicações escaláveis, eficientes e bem estruturadas.
+Sou um desenvolvedor backend em formação, migrando da área de suporte técnico para o desenvolvimento de software. Já construí APIs REST em Java com Spring Boot — como o AtivoFlow e o PVBanks — aplicando arquitetura em camadas, Docker e bancos de dados relacionais do design ao deploy.
 
 Atualmente estudo e desenvolvo projetos utilizando principalmente: **Java** (com foco no ecossistema Spring), **Node.js**, e **bancos de dados relacionais e NoSQL**.
 
