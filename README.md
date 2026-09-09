@@ -1,8 +1,8 @@
 # 👋 Olá, sou o Gustavo de Deus
 
-💻 Desenvolvedor focado em **Backend**  
-🎓 Técnico em Informática para Internet – CEFET-MG  
-🎓 Estudante de Sistemas de Informação – Anhanguera (Divinópolis-MG)  
+💻 Desenvolvedor focado em **Backend**
+🎓 Técnico em Informática para Internet – CEFET-MG
+🎓 Estudante de Sistemas de Informação – Anhanguera (Divinópolis-MG)
 📍 Brasil
 
 ---
@@ -15,19 +15,13 @@
 
 ---
 
-# 👨💻 Sobre mim
+# 👨‍💻 Sobre mim
 
 Sou um desenvolvedor em formação apaixonado por **arquitetura de software e desenvolvimento backend**. Tenho uma base sólida em manutenção e suporte, e agora dedico meus estudos à criação de aplicações escaláveis, eficientes e bem estruturadas.
 
-Atualmente estudo e desenvolvo projetos utilizando principalmente:
-- **Java** (com foco no ecossistema Spring)
-- **Node.js**
-- **Bancos de dados relacionais e NoSQL**
+Atualmente estudo e desenvolvo projetos utilizando principalmente: **Java** (com foco no ecossistema Spring), **Node.js**, e **bancos de dados relacionais e NoSQL**.
 
-Tenho interesse em atuar com:
-- Construção de APIs RESTful
-- Integração com banco de dados
-- Arquitetura de aplicações e Clean Code
+Tenho interesse em atuar com construção de APIs RESTful, integração com banco de dados, e arquitetura de aplicações e Clean Code.
 
 Meu objetivo é evoluir tecnicamente através de desafios práticos e conquistar minha **primeira oportunidade como desenvolvedor backend**.
 
@@ -57,14 +51,10 @@ Meu objetivo é evoluir tecnicamente através de desafios práticos e conquistar
 # 📊 Estatísticas GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gudereck&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gudereck&layout=compact&theme=tokyonight" alt="Top Langs" />
-</div>
 
-<br>
+[![Followers](https://img.shields.io/github/followers/Gudereck?label=Followers&style=for-the-badge&logo=github&color=24292f)](https://github.com/Gudereck?tab=followers)
+[![Repositórios públicos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Gudereck&label=Repos%20p%C3%BAblicos&query=public_repos&style=for-the-badge&logo=github&color=24292f)](https://github.com/Gudereck?tab=repositories)
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gudereck&theme=tokyo-night" alt="Gustavo github activity graph" />
 </div>
 
 ---
@@ -73,23 +63,31 @@ Meu objetivo é evoluir tecnicamente através de desafios práticos e conquistar
 
 ## 🛠️ AtivoFlow – Gestão de Ativos e Chamados de TI
 API Fullstack para gerenciar o ciclo de vida de hardwares de TI e automatizar o fluxo de suporte técnico (abertura e encerramento de chamados). O sistema possui regras de transição automática de status dos equipamentos, arquitetura em camadas e ambiente conteinerizado.
-- **Tecnologias:** Java 21, Spring Boot (Data JPA, Validation), PostgreSQL (Relacional), Docker & Docker Compose, HTML/CSS/JavaScript (Frontend).
-- 🔗 [Acessar Repositório](https://github.com/Gudereck/AtivoFlow)
+
+**Tecnologias:** Java 21, Spring Boot (Data JPA, Validation), PostgreSQL (Relacional), Docker & Docker Compose, HTML/CSS/JavaScript (Frontend).
+
+🔗 [Acessar Repositório](https://github.com/Gudereck/AtivoFlow)
 
 ## 🏦 PVBanks – API de Gestão Financeira
-API RESTful para gerenciamento de finanças, construída com arquitetura em camadas e foco em Clean Code. O sistema utiliza processamento analítico com Java Streams para cálculos de saldo e persistência em banco NoSQL.
-- **Tecnologias:** Java 21, Spring Boot 3.x (Spring Data MongoDB), MongoDB (NoSQL), Lombok.
-- 🔗 [Acessar Repositório](https://github.com/Gudereck/PvBanks-FullStack)
+API RESTful para gerenciamento de finanças, construída com arquitetura em camadas e foco em Clean Code, com frontend em Angular.
+
+**Tecnologias:** Java 21, Spring Boot 3.x, MySQL (Relacional), Angular, Lombok.
+
+🔗 [Acessar Repositório](https://github.com/Gudereck/PvBanks-FullStack)
 
 ## 💰 Sistema de Controle Financeiro
 Projeto desktop de gerenciamento financeiro construído com **arquitetura em camadas**, unindo um backend robusto a uma interface gráfica nativa e armazenamento em banco relacional.
-- **Tecnologias:** Java 21, Spring Boot (Data JPA), JavaFX (Interface Visual), SQLite.
-- 🔗 [Acessar Repositório](https://github.com/Gudereck/ProjetoFinanceiro)
+
+**Tecnologias:** Java 21, Spring Boot (Data JPA), JavaFX (Interface Visual), SQLite.
+
+🔗 [Acessar Repositório](https://github.com/Gudereck/ProjetoFinanceiro)
 
 ## 🌐 Leitor Crítico Web
-Aplicação web que realiza o consumo da API do Google Books para busca de livros e automatiza o armazenamento das informações dos títulos em um banco de dados relacional.
-- **Tecnologias:** Integração de APIs REST, Banco de Dados Relacional, HTML, CSS, JavaScript.
-- 🔗 [Acessar Repositório](https://github.com/Gudereck/Leitor-critico-web)
+Aplicação web em grupo que realiza o consumo da API do Google Books para busca de livros e automatiza o armazenamento das informações dos títulos em um banco de dados relacional.
+
+**Tecnologias:** Node.js, MySQL, Integração de APIs REST, HTML, CSS, JavaScript.
+
+🔗 [Acessar Repositório](https://github.com/Gudereck/Leitor-critico-web)
 
 ---
 
